@@ -1,0 +1,153 @@
+If you're using Excel to create your dashboard, here are free hosting options depending on how you want to share or display your dashboard:
+
+1. Share via OneDrive (Best for Online Collaboration)
+
+ How it works: Upload your Excel file to OneDrive and share a view-only or editable link.
+
+ Steps:
+
+1. Upload your Excel dashboard to OneDrive
+
+2. Right-click the file - Click Share
+
+3. Copy the link and share it.
+
+
+
+— OneDrive
+
+
+
+Pros:
+
+- No setup required
+
+- Maintains Excel interactivity
+
+- Can collaborate in real-time
+
+
+
+Cons:
+
+- Requires Microsoft account
+
+- Limited customization in free version
+
+2. Publish to Excel for the Web (Best for Public Sharing)
+
+ How it works: If using Excel Online (Microsoft 365), you can create a public share link.
+
+ Steps:
+
+1. Open your Excel dashboard in Excel Online.
+
+2. Click File > Share > Embed.
+
+3. Copy the embed code and paste it into a website.
+
+
+
+— Excel Online
+
+
+
+Pros:
+
+- Keeps formulas and charts interactive
+
+- Can be embedded into websites
+
+
+
+Cons:
+
+- Limited customization
+
+- No automation (unless using Power Automate)
+
+3. Host on Google Sheets (Best for Free Online Viewing)
+
+ How it works: Convert your Excel file into Google Sheets and share it publicly.
+
+ Steps:
+
+1. Upload your Excel file to Google Drive.
+
+2. Open it in Google Sheets.
+
+3. Click File > Share > Anyone with the link.
+
+4. (Optional) Click File > Publish to the web for an embed code.
+
+
+
+— Google Sheets
+
+
+
+Pros:
+
+- Free with a Google account
+
+- Can embed in websites
+
+- Allows collaboration
+
+
+
+Cons:
+
+- Some Excel features may not work properly
+
+- Limited styling compared to Excel
+
+4. Convert to an Interactive Power BI Dashboard (Best for Data Visualization)
+
+ How it works: Import Excel data into Power BI and share a free online dashboard.
+
+ Steps:
+
+1. Go to Power BI
+
+2. Click Get Data > Import your Excel file.
+
+3. Create a dashboard and publish it to Power BI Service.
+
+4. Share the public link (limited free access).
+
+
+
+— Power BI Free Version
+
+
+
+Pros:
+
+- Great for interactive dashboards
+
+- Advanced visualization tools
+
+- Can be shared publicly
+
+
+
+Cons:
+
+- Requires learning Power BI
+
+- Free version has limitations on sharing
+
+Best Option for You?
+
+ Basic sharing? - OneDrive or Excel Online
+
+ Make it public? - Google Sheets or Publish to Excel Web
+
+ Advanced visualizations? - Power BI Free
+
+ Embed into a website? - Google Sheets or Excel Embed Code
+
+
+
+Would you like help setting up one of these options?

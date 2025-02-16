@@ -1,0 +1,473 @@
+hello and welcome to unbelievable
+
+dashboards my name is jefff I'm glad
+
+you're here let's just jump right in
+
+today I'll show you how to build an
+
+interactive Excel dashboard in three
+
+easy steps and let's start with the
+
+first step right now exercise one we
+
+have a table that shows the survey data
+
+for our net promoter score and we'd like
+
+to make this data easier to read and
+
+understand and today we're going to use
+
+this single data table as our data
+
+source if your dashboard requires more
+
+tables no worries the same basic steps
+
+will apply first we select any cell in
+
+our table and then we go to insert pivot
+
+chart pivot chart the first thing it
+
+wants to know is where's our data range
+
+and that's automatically selected
+
+because we selected any cell within our
+
+data table the next thing it wants to
+
+know is where do we want to put the
+
+pivot chart in this case we're going to
+
+put it on an existing worksheet we're
+
+going to browse over here and we're
+
+going to pick a cell and we're going to
+
+click okay you're going to notice
+
+there's an underlying pivot table and a
+
+pivot chart and basically the pivot
+
+chart displays the values in this pivot
+
+table and after we're done with our
+
+pivot chart I'm just going to cover the
+
+pivot table with our pivot chart but for
+
+now what we want to do is we want to
+
+view this by region so we're going to
+
+check the region and we want to see the
+
+score so we check score now by default
+
+this is showing the sum of the score and
+
+what we really want to see is the
+
+average few different ways to do this
+
+what we're going to do is Click sum of
+
+score value field settings and we're
+
+going to pick average but depending on
+
+what you're working on you can check out
+
+these other options and we click okay so
+
+as you can see the pivot table does the
+
+summary and the pivot chart displays the
+
+values in the pivot table so these are
+
+linked if we don't need to see the pivot
+
+table we can just click and drag like
+
+this now in a minute we're going to do
+
+some formatting on this but right now we
+
+can see the score by region what we also
+
+want to see is the score over time so to
+
+show that we're going to insert a line
+
+chart we go back to our data source
+
+insert pivot chart existing
+
+worksheet pick a cell and click cck okay
+
+all right I'm just going to slide this
+
+to the right a little bit so once again
+
+we have a pivot chart and an underlying
+
+pivot table we want to see the trend
+
+over time so we're going to insert date
+
+and score now by default this is a
+
+column chart but no worries it's easy to
+
+change the chart type we just go to
+
+design change chart type and here we're
+
+going to pick line and we click okay and
+
+once again I'm just going to position
+
+this right here and I'm going to close
+
+this so depending on the dashboard
+
+you're working on you can easily add
+
+additional charts but these two charts
+
+are enough to demonstrate the process
+
+now let's go to the next exercise
+
+exercise two so the first thing we want
+
+to do is resize these but we want to
+
+resize them to be the same size so what
+
+we can do is group select the charts and
+
+then resize them together the way that
+
+we do that is select the first chart
+
+hold down the shift key select the next
+
+chart now if I already just click and
+
+drag you can see I can make this any
+
+aspect ratio I want
+
+I'm going to undo but if we hold down
+
+the shift key while using this click and
+
+drag the aspect ratio is locked in the
+
+other thing we can do while they're both
+
+selected is change the alignment for
+
+example I go to shape format align top
+
+and then I'm going to delete a couple of
+
+these columns now let's move this one to
+
+the left a little bit if I don't hold
+
+any keyboard Keys down I can move this
+
+anywhere I want and that's fine let me
+
+undo if I hold the shift key down and
+
+then move it now it's going to stay on
+
+that horizontal axis
+
+that looks better now let's apply some
+
+formatting now to be honest I'm not an
+
+expert in visual design but I've read
+
+some wonderful books by Steven F who is
+
+an expert the one I'd recommend is show
+
+me the numbers so if you'd like to learn
+
+more about how to design your charts
+
+check out show me the numbers by Steven
+
+F now the first thing we want to do is
+
+minimize the chart junk these are all
+
+the excess pixels that don't really
+
+contribute to the chart for example
+
+these buttons so I'm going to select the
+
+chart pivot chart analyze and I'm just
+
+going to hide all field buttons and I'll
+
+do the same thing
+
+here I'm also going to remove this
+
+Legend so I'm just going to click this
+
+and untick
+
+Legend same with this
+
+one while we're here I'm also going to
+
+remove these grid lines and same with
+
+this and by the way there are many
+
+different chart elements to explore so
+
+depending on what you're working on I
+
+definitely recommend you checking these
+
+out now let's add a descriptive title
+
+I'm going to double click this title and
+
+I'm going to put put net promoter score
+
+by region and here I'm going to put net
+
+promoter
+
+score by month and let's close this with
+
+our basic dashboard in place let's go to
+
+the next exercise exercise three now
+
+we'd like to make these charts easy to
+
+filter and we'd like to see what happens
+
+when we have more data let's start with
+
+our filter these charts support a
+
+variety of different filters including
+
+slicers and a timeline so we select
+
+either chart and go to Pivot chart
+
+analyze we could use a slicer if we
+
+wanted to filter by a category column
+
+such as region in this case we want to
+
+filter by date so we're going to go with
+
+timeline we select our date field in
+
+this case there's only one and we click
+
+okay now if you've never played with a
+
+timeline there's a lot of different
+
+options so you're definitely going to
+
+want to check out all these commands but
+
+in summary I can click a single period
+
+and this chart updates and in a minute
+
+I'm going to show you how to connect
+
+this slicer to this chart as well so we
+
+can click any individual
+
+period or we can click and drag to
+
+select multiple
+
+periods currently the period is months
+
+but there's other options so you can
+
+check those out now let's connect it to
+
+this chart as well what we do is we
+
+select the timeline and we simply click
+
+report connections and this is basically
+
+saying when I interact with the filter
+
+what underlying pivot tables will be
+
+filtered currently there's only one we
+
+want this one as well so we check it and
+
+click okay when we interact with the
+
+timeline both charts are updated let's
+
+do January to February let's do January
+
+to March let's do January to
+
+April now the other thing to note is
+
+this timeline does not need to stay on
+
+this sheet we can use a standard cut and
+
+paste to move it for example let me cut
+
+this and
+
+paste now if I select it January and
+
+February and I go to my dashboard I can
+
+see that these charts were updated
+
+accordingly let's go back and select
+
+January through April head over to the
+
+dashboard everything looks good now what
+
+happens next period when we have new
+
+data let's go back to the data source
+
+and we got a new survey we got survey
+
+1014 it happened on May 2nd 2030 for the
+
+North Region and they got an eight how
+
+does this new data make it into the
+
+dashboard that's the beautiful part
+
+let's go over to the dashboard and we
+
+click data refresh all now those pivot
+
+tables were refreshed with the new
+
+survey data it's not reflected in these
+
+charts why because of the timeline let's
+
+head back to the timeline select January
+
+through May and let's go back to the
+
+dashboard and now we can see it includes
+
+may as well also I just realized that
+
+this is still on sum and not average so
+
+let's fix that remember how let's select
+
+the chart and turn on the field
+
+list instead of sum of score we can go
+
+to Value field settings select average
+
+and depending on what you're working on
+
+check out these other options and click
+
+okay and let's close this and that looks
+
+much better so that's how we can create
+
+an interactive Dynamic dashboard we
+
+start with the source data table or
+
+tables and we create as many pivot
+
+charts as we need each pivot chart
+
+displays the results of a corresponding
+
+pivot table we can also add filters in
+
+we would use a slicer for category
+
+column such as region and we'd use a
+
+timeline for a date column and by the
+
+way charts have a ton of design options
+
+in addition to all of these chart
+
+elements that I mentioned earlier we
+
+have a bunch of commands in the ribbon
+
+so depending on what you're working on
+
+you're definitely going to want to
+
+explore these I hope this has been
+
+helpful thanks for joining me have a
+
+great day hey XL user if you ever need
+
+to create summary reports check out my
+
+pivot table for beginers video it starts
+
+at the beginning and shows how to store
+
+the data transactions in a table and
+
+then how to summarize those transactions
+
+with a pivot table report I hope it
+
+helps unlock the incredible power of
+
+pivot
+
+tables this video is a produ of excel
+
+University
+
+[Music]
+
+
